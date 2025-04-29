@@ -13,7 +13,7 @@ primaryColor = "#F89613"
 
 [data.netflix_titles]
 type = "csv"
-path = "/Users/suryadeipreddy/Downloads/SL Assesment/netflix_titles.csv"
+path = "/Users/suryadeipreddy/Downloads/SL Assesment/preswald/netflix_titles.csv"
 
 [logging]
 level = "INFO"
